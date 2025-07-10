@@ -2,5 +2,8 @@ get the user data
 process the user data 
 create an avatar for user
 
+add emoji 
+add signs
+
 thank you
 final copy
